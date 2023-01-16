@@ -1,0 +1,19 @@
+{
+  "name": "remark-code-dataset",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "adds codeblock meta as html dataset",
+  "main": "index.js",
+  "files": [
+    "./index.js"
+  ],
+  "scripts": {
+    "postversion": "git push --follow-tags"
+  },
+  "keywords": [],
+  "author": "julien barbay <julien.barbay@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-visit": "^4.1.1"
+  }
+}
