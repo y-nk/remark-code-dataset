@@ -1,7 +1,7 @@
 {
   "name": "remark-code-dataset",
   "type": "module",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "adds codeblock meta as html dataset",
   "main": "index.js",
   "files": [
