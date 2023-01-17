@@ -14,6 +14,7 @@
   "author": "julien barbay <julien.barbay@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "json5": "^2.2.3",
     "unist-util-visit": "^4.1.1"
   }
 }
